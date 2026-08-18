@@ -1,23 +1,19 @@
-# Portfolio Website
+# Nicholas Niako — Academic Portfolio
 
-Welcome to the repository for my professional portfolio website! This project is designed to be hosted directly using **GitHub Pages**.
+A responsive, dependency-light academic website for GitHub Pages.
 
-## Features
+## Pages
 
-- 🎨 **Modern Aesthetics**: Built with premium vanilla CSS, featuring glassmorphism, dark mode design, and smooth gradients.
-- ⚡ **Performance Optimized**: Lightweight, dependency-free HTML/CSS.
-- 📱 **Fully Responsive**: Adapts seamlessly to desktop, tablet, and mobile displays.
+- **Home:** Research profile, interests, selected work, and contact details
+- **Publications:** Filterable list of journal articles and conference abstracts
+- **Software:** Ongoing R package and reproducible research workflows
+- **CV:** Web summary plus the full downloadable PDF
 
-## Files Included
+## Publish with GitHub Pages
 
-- `index.html`: The main landing page featuring a stunning, responsive design.
-- `index.md`: An alternative markdown file which can be used if you prefer Jekyll-based generation.
-- `_config.yml`: Configuration file for Jekyll (if applicable).
+1. Push the repository to GitHub.
+2. Open **Settings → Pages** in the repository.
+3. Under **Build and deployment**, choose **Deploy from a branch**.
+4. Select the main branch and the `/ (root)` folder, then save.
 
-## How to View Locally
-
-Simply open the `index.html` file in any modern web browser to view the site locally. No build steps or local servers are required!
-
-## Deployment (GitHub Pages)
-
-This project is set up to easily deploy to GitHub Pages. See the instructions below to get your site live.
+No build command is required. Open `index.html` locally to preview the site.
